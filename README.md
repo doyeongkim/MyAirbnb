@@ -2,6 +2,11 @@
 
 ### Airbnb Clone Ploject
 
+<p align="center">
+<img width="500" alt="스크린샷 2019-09-05 오후 2 50 16" src="https://user-images.githubusercontent.com/29372705/64315319-a80a7580-cfec-11e9-8a4b-f3147e4ee19d.png">
+</p>
+</div>
+
 - 개요: 기존 Airbnb 앱 서비스를 기반으로 같은 형태의 서비스를 만들어보는 클론 프로젝트
 
 - 개발 기간: 2019.07.01 - 08.09
